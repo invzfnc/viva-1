@@ -5,5 +5,8 @@
 # IntelliJ config
 .idea
 
+# outputs
+out/
+
 # custom
 ignore/
