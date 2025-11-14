@@ -3,7 +3,7 @@
 *.jar
 
 # IntelliJ config
-.idea
+.idea/
 
 # outputs
 out/
